@@ -1,6 +1,6 @@
 .boxpage{
-    width: 400px;
-    padding: 0px 0px 0px 350px;
+    width: 1000px;
+    padding: 0px 0px 0px 800px;
 }
 .backgroundpage{
     background-color: aqua;
@@ -10,10 +10,24 @@
     border-radius: 50px;
     padding: 10px 10px 10px 10px;
     background-color: orange;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
 }
 .listbox{
     padding-left: 30px;
 }
-.centerimage{
-    padding-left: 70px;
+.imagebox{
+    margin-left: 250px;
+    border: solid rgb(0, 89, 255);
+    border-radius: 50px;
+    width: 500px;
+    
+}
+.cutter{
+    border: solid  red 5px;
+    border-radius: 30px;
+}
+
+.headercenter{
+    text-align: center;
 }
