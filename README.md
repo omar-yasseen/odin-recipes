@@ -16,3 +16,6 @@ c)git push
 so far i learned how to use github.
 
 apparently the "git commit -m "text"" the text part is the commit message.
+
+i finished all the odin project html and css.
+and i made the odin recipe web pages(brisket and mac&cheese) to show what i have learned to do.
